@@ -1,7 +1,8 @@
 # braintumor_detection
 Structural implementation of the project (presumption)
-AI_Brain_Tumor_Detection/
-│
+
+## AI_Brain_Tumor_Detection:
+
 ├── data/
 │   ├── train/
 │   ├── test/
